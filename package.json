@@ -1,0 +1,14 @@
+{
+  "name": "test-vertx",
+  "version": "1.0.0",
+  "description": "Testando vertx com js",
+  "main": "server.js",
+  "dependencies": {
+    "vertx3-full": "3.0.0-1"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/vertx run server.js"
+  },
+  "author": "Artus Rocha",
+  "license": "ISC"
+}
